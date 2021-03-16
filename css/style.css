@@ -243,7 +243,7 @@ cursor: pointer;
 .work{
     /* margin: 7px;
     padding: 5px; */
-    /* background-image:url(image/ngo.jpg) ; */
+    background-image:url("image/ngo.jpg") ;
     background: #dda25e5d;
     /* opacity: 0.7; */
     height: 1000px;
@@ -406,7 +406,7 @@ cursor: pointer;
 }
 #supporter
 {
-    background: url("image/paper.png");
+    background: url("/image/brick.jpg");
     position: relative;
     background-size: 100%;
     margin: 11px auto;
@@ -510,7 +510,7 @@ cursor: pointer;
 /* footerbar section */
 .footer-bar{
     /* display: flex; */
-    /* background: url("/image/nav\ photo.jpg") ; */
+    background: url("/image/nav\ photo.jpg") ;
     background-color: #748343dc;
 
     flex-direction: column;
