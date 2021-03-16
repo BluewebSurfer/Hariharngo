@@ -290,7 +290,7 @@ cursor: pointer;
 
 .wrk-list-a img{
     height: 200px;
-    border: 2px solid violet;
+    border: 2px solid #283618;
     padding: 9px;
     margin: 9px;
 }
@@ -305,7 +305,7 @@ cursor: pointer;
 }
 .wrk-list-b img{
     height: 200px;
-    border: 2px solid violet;
+    border: 2px solid #283618;
     padding: 9px;
     margin: 9px;
 
@@ -406,7 +406,7 @@ cursor: pointer;
 }
 #supporter
 {
-    background: url("/image/brick.jpg");
+    background: url("image/paper.png");
     position: relative;
     background-size: 100%;
     margin: 11px auto;
@@ -510,7 +510,8 @@ cursor: pointer;
 /* footerbar section */
 .footer-bar{
     /* display: flex; */
-    background: url("/image/nav\ photo.jpg") ;
+    /* background: url("/image/nav\ photo.jpg") ; */
+    background-color: #748343dc;
 
     flex-direction: column;
     margin: 0px;
@@ -840,7 +841,7 @@ box-shadow: 0 0 12px black;
 
     .about{
         float: left;
-        border: 2px solid black;
+        /* border: 2px solid black; */
         /* display: flex; */
         margin: 3px auto;
         padding:auto;
